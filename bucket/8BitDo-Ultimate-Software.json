@@ -9,11 +9,10 @@
             "url": "https://download.8bitdo.com/Ultimate-Software/8BitDo_Ultimate_Software_V2_Windows_V1.14.zip"
         }
     },
-    "extract_dir": "8BitDo_Ultimate_Software_V2_V$version",
+    "extract_dir": "8BitDo_Ultimate_Software_V2_V1.14",
     "persist": [
         "8BitDo Ultimate Software V2.dll.config",
-        "ErrLog",
-        "Data"
+        "ErrLog"
     ],
     "shortcuts": [
         [
