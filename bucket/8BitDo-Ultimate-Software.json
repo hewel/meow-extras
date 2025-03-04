@@ -10,7 +10,12 @@
         }
     },
     "extract_dir": "8BitDo_Ultimate_Software_V2_V1.14",
-    "persist": ["8BitDo Ultimate Software V2.dll.config", "ErrLog"],
+    "persist": [
+        "8BitDo Ultimate Software V2.dll.config",
+        "ErrLog",
+        "Config",
+        "Log"
+    ],
     "shortcuts": [
         ["8BitDo Ultimate Software V2.exe", "8BitDo Ultimate Software V2"]
     ],
