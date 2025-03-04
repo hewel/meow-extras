@@ -1,0 +1,10 @@
+{
+  "version": "1.9.11.8",
+  "url": "https://download.pixpinapp.com/PixPin_1.9.11.8.zip",
+  "hash": "sha1:3501fa71d309595353df711a6e2ec3734ffb2b2f",
+  "extract_dir": "PixPin",
+  "persist": ["Config", "History", "Data"],
+  "homepage": "https://pixpinapp.com",
+  "license": "Freeware",
+  "shortcuts": [["PixPin.exe", "PixPin"]]
+}
