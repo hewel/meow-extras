@@ -1,10 +1,10 @@
 {
   "license": "GPL-3.0",
-  "version": "1.8.1",
+  "version": "1.8.2",
   "homepage": "https://github.com/nuthx/subtitle-renamer",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/nuthx/subtitle-renamer/releases/download/1.8.1/SubtitleRenamer_windows.zip"
+      "url": "https://github.com/nuthx/subtitle-renamer/releases/download/1.8.2/SubtitleRenamer_windows.zip"
     }
   },
   "shortcuts": [
