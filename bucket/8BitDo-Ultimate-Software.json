@@ -21,7 +21,7 @@
     ],
     "checkver": {
         "url": "https://app.8bitdo.com/Ultimate-Software-V2/",
-        "regex": "Windows v|V([\\d.]+)"
+        "regex": "Windows [vV]([\\d.]+)"
     },
     "autoupdate": {
         "architecture": {
